@@ -1,6 +1,4 @@
-"# rockola-app" 
-"# rockola-app" 
 
 
-https://github.com/MartinTomeo/rockola-app/assets/70451752/17883813-d19b-4741-b72c-fde36aea243b
+https://github.com/MartinTomeo/rockola-app/assets/70451752/b425cb3b-4b4f-4794-ac80-e84ec4ebb5fc
 
