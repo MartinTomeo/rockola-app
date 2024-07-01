@@ -1,11 +1,9 @@
 package com.example.parcial2.adapter
 
 import android.view.View
-import android.widget.ImageView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.example.parcial2.R
-import com.example.parcial2.data.Album
+import com.example.parcial2.model.Album
 import com.example.parcial2.databinding.ItemAlbumBinding
 
 class AlbumViewHolder (view: View): RecyclerView.ViewHolder(view){

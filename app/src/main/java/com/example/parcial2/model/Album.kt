@@ -1,6 +1,4 @@
-package com.example.parcial2.data
-
-import android.widget.ImageView
+package com.example.parcial2.model
 
 data class Album(
     val title:String,

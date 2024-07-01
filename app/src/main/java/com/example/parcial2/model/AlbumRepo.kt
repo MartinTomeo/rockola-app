@@ -1,4 +1,4 @@
-package com.example.parcial2.data
+package com.example.parcial2.model
 
 class AlbumRepo {
     companion object{
